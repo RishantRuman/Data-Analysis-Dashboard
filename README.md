@@ -20,11 +20,7 @@ To help stakeholders monitor key business metrics, identify sales trends, and ma
 
 - **Power BI** – Data Modeling & Visualization  
 - **Microsoft Excel** – Data Cleaning & Preparation  
-- **DAX** – For calculated fields and measures
 
-## 📸 Dashboard Snapshot
-
-*(You can upload a screenshot here or link it from the images folder)*
 
 ## 📁 Dataset
 
@@ -56,7 +52,12 @@ If you want to explore or modify this dashboard:
 
 **Rishant Kumar Ruman**  
 📧 Email: rishants92@gmail.com  
-🌐 LinkedIn: [Your LinkedIn Profile]  
+🌐 LinkedIn:https://www.linkedin.com/in/rishant-kumar-ruman-56804a271/ 
+📍 Location: India
+
+---
+
+ 
 📍 Location: India
 
 ---
